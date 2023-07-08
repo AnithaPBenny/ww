@@ -1,6 +1,8 @@
 # waste_wise
 
 A new Flutter project.
+This project aims to deveolop a mobile application called WasteWise. The app is meant for making the waste collecion easier for the local bodies.
+
 
 ## Getting Started
 
